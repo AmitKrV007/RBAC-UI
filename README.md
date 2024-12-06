@@ -10,8 +10,6 @@ This project is a simple **User Management System** built with **React-JS**. It 
 - **Delete Users**: You can delete users directly from the user table, which will permanently remove them from the system.
 - **Responsiveness**: The app is designed to work well on both desktop and mobile devices. Tables and forms adjust gracefully to different screen sizes.
 
-## Visit At
-https://resplendent-torte-93b46d.netlify.app
 
 ## Technologies Used
 
